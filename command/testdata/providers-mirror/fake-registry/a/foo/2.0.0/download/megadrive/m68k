@@ -1,0 +1,9 @@
+{
+    "os": "megadrive",
+    "arch": "m68k",
+    "shasum": "e4bedb8af43b4ed3caee102eef94c2b19fffc5284e17d508bcfbbf0dadc5c171",
+    "download_url": "../../megadrive_m68k.zip",
+    "shasums_url": "../../SHA256SUMS",
+    "shasums_signature_url": "../../SHA256SUMS.sig",
+    "filename": "megadrive_m68k.zip"
+}

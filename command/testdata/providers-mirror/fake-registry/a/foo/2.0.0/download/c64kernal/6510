@@ -1,0 +1,9 @@
+{
+    "os": "c64kernal",
+    "arch": "6510",
+    "shasum": "f2fd43930f7e906d177f507b72625ef4af9088432bcef685b2dff787d5e12a32",
+    "download_url": "../../c64kernal_6510.zip",
+    "shasums_url": "../../SHA256SUMS",
+    "shasums_signature_url": "../../SHA256SUMS.sig",
+    "filename": "c64kernal_6510.zip"
+}

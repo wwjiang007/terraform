@@ -1,0 +1,7 @@
+This directory is intended to be used with Go's http.FileServer to make a
+temporary server that implements enough of the provider registry protocol
+to test the behavior of "terraform providers mirror".
+
+We can use it by providing a stub instance of disco.Services when testing that
+contains a discovery override for whatever hostname the test is using as
+the provider's origin registry.
